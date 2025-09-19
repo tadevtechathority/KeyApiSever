@@ -1,0 +1,9 @@
+Package: com.thiennhandev.loginfree
+Name: ThienNhan
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Tweak login key + UUID check cho menu
+Maintainer: Thien Nhan
+Author: Thien Nhan
+Section: Tweaks
